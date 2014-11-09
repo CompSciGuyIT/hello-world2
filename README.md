@@ -10,7 +10,7 @@ Another paragraph
 ```
 
 1. This
-2. is 
+2. is
 3. a
 4. list
 

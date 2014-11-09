@@ -15,7 +15,7 @@ Another paragraph
 4. list
 
 * Bullet
-*points
+* points
 
 http://www.google.com
 
